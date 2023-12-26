@@ -51,6 +51,6 @@ npm install
 
 ### Step 3
 ```sh
-node start or nodemon start
+node app.js or nodemon app.js
 ```
 
