@@ -54,3 +54,6 @@ npm install
 node app.js or nodemon app.js
 ```
 
+### Step 4
+Open "http://localhost:8010/" in your browser.
+
