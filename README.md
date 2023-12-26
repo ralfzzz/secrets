@@ -13,6 +13,9 @@
       PostgreSQL
     </li>
     <li>
+      MySQL Lite
+    </li>
+    <li>
       BCRYPT
     </li>
     <li>
