@@ -37,8 +37,8 @@
 ### Preparations
 - Install PostgreSQL & NodeJS in local computer.
 - Clone / Download this repo. 
-- Config secret in .env
-- Config google oauth secret.
+- Config secrete in .env
+- Config google oauth secrete.
 - Setup port in .env
 
 ### Step 1
