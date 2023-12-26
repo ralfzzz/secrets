@@ -1,0 +1,56 @@
+<h1>README: Instalasi SECRET Website Berbasis Node.js & Express.js</h1>
+<p>Portfolio untuk mempraktekkan penggunakan Authentication & Security pada website.</p>
+<div>
+  <h2>Yang digunakan di proyek ini: </h2>
+  <ul>
+    <li>
+      Node JS
+    </li>
+    <li>
+      Express JS
+    </li>
+    <li>
+      PostgreSQL
+    </li>
+    <li>
+      BCRYPT
+    </li>
+    <li>
+      Passport.js
+    </li>
+    <li>
+      Cookie Session
+    </li>
+    <li>
+      passport-google-oauth20
+    </li>
+    <li>
+      passport-local
+    </li>
+    <li>
+      express-session
+    </li>
+  </ul>
+</div>
+<h2>Install</h2>
+
+### Preparations
+- Install PostgreSQL & NodeJS in local computer.
+- Clone / Download this repo. 
+- Config secret in .env
+- Config google oauth secret.
+- Setup port in .env
+
+### 1. Step 1
+CD into the directory repo.
+
+### 2. Step 2
+```sh
+npm install
+```
+
+### 3. Step 3
+```sh
+node start or nodemon start
+```
+
