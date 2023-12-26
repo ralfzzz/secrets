@@ -41,15 +41,15 @@
 - Config google oauth secret.
 - Setup port in .env
 
-### 1. Step 1
-CD into the directory repo.
+### Step 1
+CD into repo's directory.
 
-### 2. Step 2
+### Step 2
 ```sh
 npm install
 ```
 
-### 3. Step 3
+### Step 3
 ```sh
 node start or nodemon start
 ```
