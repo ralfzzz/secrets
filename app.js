@@ -9,7 +9,6 @@ const session = require('express-session');
 const SQLiteStore = require('connect-sqlite3')(session);
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
 
-
 const app = express();
 const port = process.env.PORT;
 app.use(express.static('public'));
